@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍💻I’m a junior front-end developer from Europe. I can speak Romanian, English and Russian. I’m very passionate about creating visually appealing and user-friendly web-sites. My journey in web development began with various online courses that have equipped me with the skills to design and develop responsive, high-performance websites.</p>
+<p align="left">I’m a junior front-end developer from Europe. I can speak Romanian, English and Russian. I’m very passionate about creating visually appealing and user-friendly web-sites. My journey in web development began with various online courses that have equipped me with the skills to design and develop responsive, high-performance websites.</p>
 
 ###
 
