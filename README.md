@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a junior front-end developer from Europe. I can speak Romanian, English and Russian. I’m very passionate about creating visually appealing and user-friendly web-sites. My journey in web development began with various online courses that have equipped me with the skills to design and develop responsive, high-performance websites.</p>
+<p align="left">I’m a front-end developer from Europe. I can speak Romanian, English and Russian. I’m very passionate about creating visually appealing and user-friendly web-sites. My journey in web development began with various online courses that have equipped me with the skills to design and develop responsive, high-performance websites.</p>
 
 ###
 
@@ -29,6 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
@@ -39,8 +40,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
+
+###
 
 ###
 
